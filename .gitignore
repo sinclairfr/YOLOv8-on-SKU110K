@@ -1,0 +1,6 @@
+datasets/
+runs/
+my_yolov8_640_model/
+my_yolov8_800_model/
+my_yolov8_model/
+test_files/
